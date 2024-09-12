@@ -1,3 +1,5 @@
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E)
+![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB)
 - 👋 Hi, I’m @TheRealHezma
 - 👀 I’m interested in software engineering
 - 🌱 I’m currently learning javascript
