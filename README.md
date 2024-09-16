@@ -15,4 +15,4 @@ console.log(
   `and apply development methodologies like ${hemza.methodologies.join(", ")}. ` +
   `I'm active in tech communities such as ${hemza.techCommunities.join(" and ")}, and currently, ` +
   `I'm working on a challenge: ${hemza.challenge}.`
-);```
+);
