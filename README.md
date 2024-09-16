@@ -1,9 +1,15 @@
+<h2 style="display: inline-block;">Hello! Welcome to my GitHub!</h2>
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWxpaHJsdTh2cXoxZXVrZWhmd2xnaHh6c3lkbDNqYnU2bXJ0ZGJuYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ykbXCsOwfp1dK/giphy.gif" alt="Welcome GIF" align="right" width="200" />
+
+<p>Ways to connect:</p>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hemza%20Mansour-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/hemza-mansour-038a2521a/)
-[![GitHub TheRealHezma](https://img.shields.io/github/followers/TheRealHezma?label=follow&style=social)](https://github.com/TheRealHezma)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-hezmam6%40gmail.com-red?logo=gmail&style=flat-square)](mailto:hezmam6@gmail.com)
+[![GitHub TheRealHezma](https://img.shields.io/github/followers/TheRealHezma?label=follow&style=social)](https://github.com/TheRealHezma)
 
 
-```const hemza = {
+```javascript
+const hemza = {
   name: "Hemza Mansour",
   location: "Cleveland, Ohio",
   pronouns: "he" | "him",
@@ -21,4 +27,5 @@ console.log(
   `and apply development methodologies like ${hemza.methodologies.join(", ")}. ` +
   `I'm active in tech communities such as ${hemza.techCommunities.join(" and ")}, and currently, ` +
   `I'm working on a challenge: ${hemza.challenge}.`
-);
+); 
+```
