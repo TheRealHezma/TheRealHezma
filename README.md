@@ -29,3 +29,16 @@ console.log(
   `I'm working on a challenge: ${hemza.challenge}.`
 ); 
 ```
+
+
+
+<div style="display: flex; align-items: center; margin-top: 20px;">
+  <div>
+    <img id="butterfree-gif" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzgxZXhjcnB2OWxnZ2Z0YmsxaHJpdXBuNDJkaHE4cGExbXZjbWQ5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZHq4tCdYtF0YM/giphy.gif" alt="Butterfree Crying" width="200" />
+  </div>
+  <div style="margin-left: 10px;">
+        <h3 style="font-size: 16px align='right';">Don't go before connecting or Butterfree will never't stop crying!</h3>
+    
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hemza%20Mansour-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/hemza-mansour-038a2521a/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-hezmam6%40gmail.com-red?logo=gmail&style=flat-square)](mailto:hezmam6@gmail.com)
+[![GitHub TheRealHezma](https://img.shields.io/github/followers/TheRealHezma?label=follow&style=social)](https://github.com/TheRealHezma)
