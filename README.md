@@ -1,8 +1,6 @@
-<a href="https://www.linkedin.com/in/hemza-mansour-038a2521a/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Hemza%20Mansour-blue?logo=linkedin&style=flat-square" alt="LinkedIn">
-</a>
-
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hemza%20Mansour-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/hemza-mansour-038a2521a/)
+[![GitHub TheRealHezma](https://img.shields.io/github/followers/TheRealHezma?label=follow&style=social)](https://github.com/TheRealHezma)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-hezmam6%40gmail.com-red?logo=gmail&style=flat-square)](mailto:hezmam6@gmail.com)
 
 
 ```const hemza = {
