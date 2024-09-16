@@ -1,5 +1,10 @@
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Hemza%20Mansour-blue?logo=linkedin&style=flat-square)
+
+
+
 ```const hemza = {
   name: "Hemza Mansour",
+  location: "Cleveland, Ohio",
   pronouns: "he" | "him",
   code: ["Javascript", "HTML", "CSS", "Python"],
   tools: ["React", "Redux", "Node", "Docker"],
