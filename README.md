@@ -1,4 +1,7 @@
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Hemza%20Mansour-blue?logo=linkedin&style=flat-square)
+<a href="https://www.linkedin.com/in/hemza-mansour-038a2521a/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Hemza%20Mansour-blue?logo=linkedin&style=flat-square" alt="LinkedIn">
+</a>
+
 
 
 
