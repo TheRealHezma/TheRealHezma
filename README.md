@@ -13,7 +13,7 @@ const hemza = {
   name: "Hemza Mansour",
   location: "Cleveland, Ohio",
   pronouns: "he" | "him",
-  code: ["Javascript", "Typescript", "HTML", "CSS", "Python"],
+  code: ["JavaScript", "TypeScript", "HTML", "CSS", "Python"],
   tools: ["React", "Redux", "Node", "Docker"],
   architecture: ["microservices", "event-driven", "design system pattern"],
   methodologies: ["Agile", "Scrum", "Kanban"],
